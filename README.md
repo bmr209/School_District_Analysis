@@ -56,7 +56,7 @@ I previously performed an analysis of the math and reading scores from several h
     #### Scores By School Size
     Comparing the results for school sizes, revealed a similar finding to the results for school spending. The orginal size summary is divided into categories for schools with less than 1000 students, schools with 1000 to 2000 students and schools with 2000 to 5000 students:
 
-    ![Original Size Summary](Resources/orignal_size_summary.png)
+    ![Original Size Summary](Resources/original_size_summary.png)
 
     The new analysis showed that the average reading score for schools between 1000 and 2000 students is actually about nine thousandths higher after removing the ninth grade scores:
 
